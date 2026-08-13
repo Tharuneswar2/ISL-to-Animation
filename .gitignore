@@ -1,0 +1,26 @@
+# Environments
+venv/
+.venv/
+env/
+ENV/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Models & downloaded weights
+models/
+
+# Output directories (motion JSONs, debug videos, plots)
+output/
+
+# IDE / Editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
